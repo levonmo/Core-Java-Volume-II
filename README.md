@@ -14,3 +14,10 @@ README
 
 ****
 ## 目录
+* 开始
+	* [第一部分](/fundamental2/src/test/Test1.java)
+		* File类
+		* IO（超详细)
+		* 序列化和反序列化	
+		* 网络编程
+	* [强大的XML](/fundamental2/src/test/Test2.java)
