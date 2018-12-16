@@ -1,8 +1,9 @@
 README
 ===========================
 《java核心技术 卷Ⅱ》笔记  
-只翻翻看了看，没有进行深入的研读。
-
+* 正文开始: 
+* 第一部分: https://github.com/mowenlong/Core-Java-Volume-II/blob/master/fundamental2/src/test/Test1.java
+* 第二部分: https://github.com/mowenlong/Core-Java-Volume-II/blob/master/fundamental2/src/test/Test2.java
 ****
 	
 |Author|龙|
